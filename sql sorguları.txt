@@ -1,0 +1,14 @@
+Soru1:Öðrenci tablosundaki cinsiyeti kýz (K) olan kayýtlarý listeleyiniz.
+Cevap1:Select * From ogrenci where cinsiyet="K"
+
+Soru2:Öðrenci tablosundaki öðrencinin adýný ve soyadýný birleþtirip, adsoyad olarak listeleyiniz.
+Cevap2:Select (ograd+' '+ogrsoyad) as [adsoyad] from ogrenci
+
+Soru3:Rastgele bir öðrenci seçin.
+Cevap3:select TOP 1 * from ogrenci ORDER BY NEWID()
+
+Soru4:10B veya 10C sýnýfýndaki öðrencilerin numarasýný, adýný, soyadýný ve okuduðu kitaplarý listeleyin.
+Cevap4:select ogrno,ograd,ogrsoyad,kitapadi from ogrenci O inner join islem I on O.ogrno=I.ogrno ýnner join kitap K on I.kitapno=K.kitapno where sinif="10B" or sinif="10C"
+
+Soru5:Fýkra ve hikaye türündeki kitaplarýn adýný  ve türünü listeleyin.
+Cevap5:Select kitapadi,turadi from kitap K inner join tur T on T.turno=K.turno where turadi="Fýkra" or turadi="Hikaye"

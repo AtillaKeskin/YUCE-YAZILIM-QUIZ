@@ -1,0 +1,10 @@
+C:\Users\Atilla Keskin\source\repos\SınavOrtalaması\SınavOrtalaması\obj\Debug\SınavOrtalaması.csprojAssemblyReference.cache
+C:\Users\Atilla Keskin\source\repos\SınavOrtalaması\SınavOrtalaması\obj\Debug\SınavOrtalaması.Form1.resources
+C:\Users\Atilla Keskin\source\repos\SınavOrtalaması\SınavOrtalaması\obj\Debug\SınavOrtalaması.Properties.Resources.resources
+C:\Users\Atilla Keskin\source\repos\SınavOrtalaması\SınavOrtalaması\obj\Debug\SınavOrtalaması.csproj.GenerateResource.cache
+C:\Users\Atilla Keskin\source\repos\SınavOrtalaması\SınavOrtalaması\obj\Debug\SınavOrtalaması.csproj.CoreCompileInputs.cache
+C:\Users\Atilla Keskin\source\repos\SınavOrtalaması\SınavOrtalaması\bin\Debug\SınavOrtalaması.exe.config
+C:\Users\Atilla Keskin\source\repos\SınavOrtalaması\SınavOrtalaması\bin\Debug\SınavOrtalaması.exe
+C:\Users\Atilla Keskin\source\repos\SınavOrtalaması\SınavOrtalaması\bin\Debug\SınavOrtalaması.pdb
+C:\Users\Atilla Keskin\source\repos\SınavOrtalaması\SınavOrtalaması\obj\Debug\SınavOrtalaması.exe
+C:\Users\Atilla Keskin\source\repos\SınavOrtalaması\SınavOrtalaması\obj\Debug\SınavOrtalaması.pdb

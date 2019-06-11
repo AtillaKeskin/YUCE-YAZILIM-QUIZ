@@ -1,0 +1,7 @@
+C:\Users\Atilla Keskin\source\repos\JavascriptQuizSoruları\JavascriptQuizSoruları\bin\JavascriptQuizSoruları.dll.config
+C:\Users\Atilla Keskin\source\repos\JavascriptQuizSoruları\JavascriptQuizSoruları\bin\JavascriptQuizSoruları.dll
+C:\Users\Atilla Keskin\source\repos\JavascriptQuizSoruları\JavascriptQuizSoruları\bin\JavascriptQuizSoruları.pdb
+C:\Users\Atilla Keskin\source\repos\JavascriptQuizSoruları\JavascriptQuizSoruları\obj\Debug\JavascriptQuizSoruları.csprojAssemblyReference.cache
+C:\Users\Atilla Keskin\source\repos\JavascriptQuizSoruları\JavascriptQuizSoruları\obj\Debug\JavascriptQuizSoruları.csproj.CoreCompileInputs.cache
+C:\Users\Atilla Keskin\source\repos\JavascriptQuizSoruları\JavascriptQuizSoruları\obj\Debug\JavascriptQuizSoruları.dll
+C:\Users\Atilla Keskin\source\repos\JavascriptQuizSoruları\JavascriptQuizSoruları\obj\Debug\JavascriptQuizSoruları.pdb

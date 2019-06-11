@@ -1,0 +1,7 @@
+C:\Users\Atilla Keskin\source\repos\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.exe.config
+C:\Users\Atilla Keskin\source\repos\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.exe
+C:\Users\Atilla Keskin\source\repos\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.pdb
+C:\Users\Atilla Keskin\source\repos\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.csprojAssemblyReference.cache
+C:\Users\Atilla Keskin\source\repos\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.csproj.CoreCompileInputs.cache
+C:\Users\Atilla Keskin\source\repos\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.exe
+C:\Users\Atilla Keskin\source\repos\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.pdb
